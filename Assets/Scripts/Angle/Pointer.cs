@@ -191,6 +191,8 @@ public class Pointer : MonoBehaviour
         tmp.alignment = TextAlignmentOptions.Center;
         tmp.color = Color.red;
         tmp.sortingOrder = 10; // Make sure it renders on top
+        textObj.transform.LookAt(Camera.main.transform); // Face the camera
+        textObj.transform.Rotate(0, 180f, 0);
     }
 
 
