@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 7d326d5b8abb98c4ab2d756580825817
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: product-5d4201d3-0000-0288-3135-363436373335-bodyMat
+    second: {fileID: 2100000, guid: 0c3993fa85a2aff4db845b63e5ad1a0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: product-5de6b440-0000-0428-3135-373534303132-bodyMat
+    second: {fileID: 2100000, guid: 52d0b50d6ef940f42a138fa3c24efaca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: product-5de6b440-0000-042b-3135-373534303132-bodyMat
+    second: {fileID: 2100000, guid: c99dc4376a67b4c4aa13084964ed4f90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: product-5de6b440-0000-0442-3135-373534303132-bodyMat
+    second: {fileID: 2100000, guid: ffbce7ae380a73e479937288655ffce7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: product-5de6b440-0000-0459-3135-373534303132-bodyMat
+    second: {fileID: 2100000, guid: 0d9cb6e125a9b694d85247c169470e65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: product-5de6b440-0000-06cd-3135-373534303138-bodyMat
+    second: {fileID: 2100000, guid: 3a2dde9fcdbcf1842991439298fd825e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: product-5de6b440-0000-079e-3135-373534303235-bodyMat
+    second: {fileID: 2100000, guid: 87845eb8dd3e0c04fbdb25a5ffda78ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: product-5de6b440-0000-07bc-3135-373534303235-bodyMat
+    second: {fileID: 2100000, guid: 245b8173b9f47994b99f9cc67cd0aee2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: product-5de6b440-0000-0904-3135-373534303237-bodyMat
+    second: {fileID: 2100000, guid: 2ffa99efdc519c54eb806a5e4d6a3ea3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: product-5de6b440-0000-0b48-3135-373534303331-bodyMat
+    second: {fileID: 2100000, guid: 4458047d94e3a4b4090f96d9cc6c2d4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: product-5de6b440-0000-0b66-3135-373534303331-bodyMat
+    second: {fileID: 2100000, guid: c13f3f5468259f64d86076eca932e4e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: product-5de6b440-0000-0b90-3135-373534303331-bodyMat
+    second: {fileID: 2100000, guid: af398c840be0e8d43a0ceda974348cf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: product-5de6b440-0000-0b95-3135-373534303331-bodyMat
+    second: {fileID: 2100000, guid: d20db58a56aa595449440af8eede0004, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: product-5df26f71-0000-0629-3135-373631373738-bodyMat
+    second: {fileID: 2100000, guid: 0725d74e47bbbfc48aefefeed106c940, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: product-5df26f71-0000-0630-3135-373631373738-bodyMat
+    second: {fileID: 2100000, guid: c42683a4d1a111c439a8338b0cf415b6, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
